@@ -1,4 +1,4 @@
-## Superpowers — The extensible, real-time collaborative IDE
+## Superpowers — The Extensible, Real-time Collaborative IDE
 
 [![License](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/superpowers/superpowers-core/blob/master/LICENSE.txt)
 [![Build Status](https://travis-ci.org/superpowers/superpowers-core.svg?branch=master)](https://travis-ci.org/superpowers/superpowers-core)
